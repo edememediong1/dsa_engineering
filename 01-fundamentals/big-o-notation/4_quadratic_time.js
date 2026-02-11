@@ -12,4 +12,4 @@ function logAllPairsOfArray(array) {
     }
 }
 
-// 
+// the double for loop there is the danger
